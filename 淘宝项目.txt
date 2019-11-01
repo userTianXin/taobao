@@ -1,0 +1,142 @@
+wrapper 包装
+nav bar 导航栏
+top-nav-wrap顶部导航副级
+search-warp搜索区域
+screen-nav屏幕导
+text-decoration: none去掉下划线
+list-style列表样式
+
+.wrapper .top-nav-wrap
+wrapper后面有空格 相当于选中wrapper子级的class命名
+没有空格相当于选中wrapper和top-nav-wrap两个class
+
+overflow-x: hideen 横向滚动条消失
+overflow-y: hideen 竖向滚动条消失
+overflow 横竖都消失
+
+solid固定的
+border边界
+margin边缘
+auto自动
+
+快捷键 ul>li*3
+ctrl+d 批量class命名
+margin边缘
+align center居中对齐
+text-align: center 水平居中
+float实行
+display显示
+block块
+
+
+pic人名
+shopcar购物车
+web-nav网址导航
+shortcut捷径
+icon图标
+favicon网站图标
+<link rel="shortcut icon" type="image/x-icon" href="favicon.icon"/>
+
+
+
+line排成一行
+padding 填补 （涉及到盒模型
+a:hover 鼠标覆盖
+sign符号
+cut分割
+off离开
+seller卖方
+somer人名
+inline内联
+background背景图片
+url引入
+middle中间
+vertical垂直
+align一行
+padding 0(上下0) 6px（左右6像素）
+
+
+
+快速输入class命名
+.+名称+回车
+display:inline-block转换行级块元素
+vertical-align: top; 基于上基准线对齐
+position位置
+relative相对的(相对于父级自己往上挪动多少)（基于自身元素定位可以用top值来控制）
+absolute绝对的（相对于离自己最近的父级并且是有定位的父级）
+fixed相对于当前浏览器适口定位
+盒模型的margin/padding
+
+
+panel内容
+tab标签
+hidden隐藏
+select挑选
+ ul>li*3 （ul  li X3）
+button按钮
+submit提交
+form表单
+input输入
+placeholder占位符（搜索条里灰色的文本）
+背景颜色的渐变 linear-gradient线性渐变
+圆角 border-radius（可设置百分比或像素）正方形的50%是圆形
+linear线性的
+gradient渐变
+radius半径
+
+
+line-height竖直方向居中
+text-align: center设置文字水平居中
+border-top-left-radius: 6px;上左6px圆角
+cursor: pointer;鼠标指向时有小手
+background: linear-gradient(to right,#ff9000 0,#ff5000 100%);线性渐变 从哪到哪 从什么颜色到什么颜色
+font-weight:700；字体加粗（也可放border）可以不加px
+bottom底部
+position位置
+gradient倾斜
+linear线性的
+cursor指针
+pointer指针变量
+overflow超出
+hidden隐藏
+overflow：hidden超出部分隐藏
+none没有
+border：none 默认的边取消
+input样式处理 border/outline点击没有样式
+padding：6px; 16px; 页边距
+text-indent:10px 文字的缩进
+display:lnline-block行级块元素
+background-size: 100%;图片充满百分百
+active选中
+close小图标
+line-height: 20px;文字所占行高20px
+no-repeat当前界面图片是不重复的
+repeat重复 复制
+h2自动加粗样式
+before伪元素 在当前元素前面添加一个元素
+
+main主要部分
+文字属性 line-height/text-aligin/font-size/font-weight
+文字环绕图片
+member成员
+message消息信息
+notice公告
+module模块
+info信息
+title标题
+content内容
+box-sizing:border-box盒模型的转换
+backgroud-position背景定位
+
+
+
+
+
+
+
+
+
+
+
+
+

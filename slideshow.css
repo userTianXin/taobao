@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+#flash{
+    width: 520px;
+    height: 280px;
+    overflow:hidden;
+    border:1px solid #999;
+    position: relative;
+}
+#flash img{
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+#flash ul{
+    position: absolute;
+    right:43%;
+    bottom: 10px; 
+}
+#flash ul li{
+    list-style: none;
+    width: 10px;
+    height: 10px;
+    border-radius: 6px;
+    background-color:#DDDDDD;
+    float: left;
+    margin-right: 3px;
+}
